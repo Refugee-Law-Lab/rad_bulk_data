@@ -1,0 +1,28 @@
+[
+    {
+        "citation1": "MC2-03068",
+        "citation2": "",
+        "dataset": "RAD",
+        "name": "",
+        "source_url": "MC2-03068 - Final February 2023.txt",
+        "scraped_timestamp": "2023-11-19 10:20:08",
+        "document_date": "2023-02-02",
+        "year": 2023.0,
+        "unofficial_text": "",
+        "language": "en",
+        "other": "{\"decision-maker_name\": \"Me Martine Durocher\"}"
+    },
+    {
+        "citation1": "MC2-03068",
+        "citation2": "",
+        "dataset": "RAD",
+        "name": "",
+        "source_url": "MC2-03068tf.txt",
+        "scraped_timestamp": "2023-11-19 10:20:08",
+        "document_date": "2023-02-02",
+        "year": 2023.0,
+        "unofficial_text": "",
+        "language": "fr",
+        "other": "{\"decision-maker_name\": \"Me Martine Durocher\"}"
+    }
+]

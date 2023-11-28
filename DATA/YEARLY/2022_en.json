@@ -1,6 +1,6 @@
 [
     {
-        "citation1":"MC0-09778",
+        "citation":"MC0-09778",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -13,7 +13,7 @@
         "other":"{\"decision-maker_name\": \"Tess Acton\"}"
     },
     {
-        "citation1":"MC1-02576",
+        "citation":"MC1-02576",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -26,7 +26,7 @@
         "other":"{\"decision-maker_name\": \"Andrea Poole\"}"
     },
     {
-        "citation1":"MC1-03403",
+        "citation":"MC1-03403",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -39,7 +39,7 @@
         "other":"{\"decision-maker_name\": \"Nicole Ladouceur\"}"
     },
     {
-        "citation1":"MC1-03874",
+        "citation":"MC1-03874",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -52,7 +52,7 @@
         "other":"{\"decision-maker_name\": \"Bianca Eleonora Suciu\"}"
     },
     {
-        "citation1":"MC1-03928",
+        "citation":"MC1-03928",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -65,7 +65,7 @@
         "other":"{\"decision-maker_name\": \"Me Agn\u00e8s Connat\"}"
     },
     {
-        "citation1":"MC1-04348",
+        "citation":"MC1-04348",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -78,7 +78,7 @@
         "other":"{\"decision-maker_name\": \"Jo-Anne Pickel\"}"
     },
     {
-        "citation1":"MC1-04814",
+        "citation":"MC1-04814",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -91,7 +91,7 @@
         "other":"{\"decision-maker_name\": \"Joseph W. Richards II\"}"
     },
     {
-        "citation1":"MC1-05698",
+        "citation":"MC1-05698",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -104,7 +104,7 @@
         "other":"{\"decision-maker_name\": \"Laura Ko\"}"
     },
     {
-        "citation1":"MC1-05968",
+        "citation":"MC1-05968",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -117,7 +117,7 @@
         "other":"{\"decision-maker_name\": \"Liza Guevara\"}"
     },
     {
-        "citation1":"MC1-06821",
+        "citation":"MC1-06821",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -130,7 +130,7 @@
         "other":"{\"decision-maker_name\": \"Jo-Anne Pickel\"}"
     },
     {
-        "citation1":"MC1-07038",
+        "citation":"MC1-07038",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -143,7 +143,7 @@
         "other":"{\"decision-maker_name\": \"Susan Brown\"}"
     },
     {
-        "citation1":"MC1-07673",
+        "citation":"MC1-07673",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -156,7 +156,7 @@
         "other":"{\"decision-maker_name\": \"Daphn\u00e9e Ouellet\"}"
     },
     {
-        "citation1":"MC1-07880",
+        "citation":"MC1-07880",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -169,7 +169,7 @@
         "other":"{\"decision-maker_name\": \"Mokhtar Lamani\"}"
     },
     {
-        "citation1":"MC1-08187",
+        "citation":"MC1-08187",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -182,7 +182,7 @@
         "other":"{\"decision-maker_name\": \"Normand Leduc\"}"
     },
     {
-        "citation1":"MC1-08212",
+        "citation":"MC1-08212",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -195,7 +195,7 @@
         "other":"{\"decision-maker_name\": \"Me Richard Sheitoyan\"}"
     },
     {
-        "citation1":"MC1-08838",
+        "citation":"MC1-08838",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -208,7 +208,7 @@
         "other":"{\"decision-maker_name\": \"Me Alain Bissonnette\"}"
     },
     {
-        "citation1":"MC1-09022",
+        "citation":"MC1-09022",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -221,7 +221,7 @@
         "other":"{\"decision-maker_name\": \"Aaron David Smith\"}"
     },
     {
-        "citation1":"MC1-09244",
+        "citation":"MC1-09244",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -234,7 +234,7 @@
         "other":"{\"decision-maker_name\": \"Me Philippe Rabot\"}"
     },
     {
-        "citation1":"MC1-09544",
+        "citation":"MC1-09544",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -247,7 +247,7 @@
         "other":"{\"decision-maker_name\": \"Me Michel Colin\"}"
     },
     {
-        "citation1":"MC1-09652",
+        "citation":"MC1-09652",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -260,7 +260,7 @@
         "other":"{\"decision-maker_name\": \"Miriam McLeod\"}"
     },
     {
-        "citation1":"MC1-11357",
+        "citation":"MC1-11357",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -273,7 +273,7 @@
         "other":"{\"decision-maker_name\": \"Me Agn\u00e8s Connat\"}"
     },
     {
-        "citation1":"MC1-11417",
+        "citation":"MC1-11417",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -286,7 +286,7 @@
         "other":"{\"decision-maker_name\": \"Toni Jedid\"}"
     },
     {
-        "citation1":"MC1-11459",
+        "citation":"MC1-11459",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -299,7 +299,7 @@
         "other":"{\"decision-maker_name\": \"Me Martine Durocher\"}"
     },
     {
-        "citation1":"MC2-09861",
+        "citation":"MC2-09861",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -312,7 +312,7 @@
         "other":"{\"decision-maker_name\": \"Bianca Suciu\"}"
     },
     {
-        "citation1":"VC1-06732",
+        "citation":"VC1-06732",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -325,7 +325,7 @@
         "other":"{\"decision-maker_name\": \"Kiran Qureshi\"}"
     },
     {
-        "citation1":"TC1-11620",
+        "citation":"TC1-11620",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -338,7 +338,7 @@
         "other":"{\"decision-maker_name\": \"Sasha Cragg-Gore\"}"
     },
     {
-        "citation1":"TC1-20732",
+        "citation":"TC1-20732",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -351,7 +351,7 @@
         "other":"{\"decision-maker_name\": \"Kiran Qureshi\"}"
     },
     {
-        "citation1":"TC2-09366",
+        "citation":"TC2-09366",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -364,7 +364,7 @@
         "other":"{\"decision-maker_name\": \"J. Pollock\"}"
     },
     {
-        "citation1":"VC2-02458",
+        "citation":"VC2-02458",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -377,7 +377,7 @@
         "other":"{\"decision-maker_name\": \"Tess Acton\"}"
     },
     {
-        "citation1":"TC0-09011",
+        "citation":"TC0-09011",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -390,7 +390,7 @@
         "other":"{\"decision-maker_name\": \"Laura Brittain\"}"
     },
     {
-        "citation1":"TC1-02523",
+        "citation":"TC1-02523",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -403,7 +403,7 @@
         "other":"{\"decision-maker_name\": \"Christopher G. Harrison\"}"
     },
     {
-        "citation1":"TC1-03428",
+        "citation":"TC1-03428",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -416,7 +416,7 @@
         "other":"{\"decision-maker_name\": \"Charles A. McDermott\"}"
     },
     {
-        "citation1":"TC1-04797",
+        "citation":"TC1-04797",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -429,7 +429,7 @@
         "other":"{\"decision-maker_name\": \"Cynthia Pay\"}"
     },
     {
-        "citation1":"TC1-06361",
+        "citation":"TC1-06361",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -442,7 +442,7 @@
         "other":"{\"decision-maker_name\": \"Kamal Gill\"}"
     },
     {
-        "citation1":"TC1-07016",
+        "citation":"TC1-07016",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -455,7 +455,7 @@
         "other":"{\"decision-maker_name\": \"James Sloan\"}"
     },
     {
-        "citation1":"TC1-08937",
+        "citation":"TC1-08937",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -468,7 +468,7 @@
         "other":"{\"decision-maker_name\": \"Cheryl Braden\"}"
     },
     {
-        "citation1":"TC1-08952",
+        "citation":"TC1-08952",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -481,7 +481,7 @@
         "other":"{\"decision-maker_name\": \"M. Kingma\"}"
     },
     {
-        "citation1":"TC1-09476",
+        "citation":"TC1-09476",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -494,7 +494,7 @@
         "other":"{\"decision-maker_name\": \"Pamela Arnott\"}"
     },
     {
-        "citation1":"TC1-10177",
+        "citation":"TC1-10177",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -507,7 +507,7 @@
         "other":"{\"decision-maker_name\": \"Andrea Poole\"}"
     },
     {
-        "citation1":"TC1-11196",
+        "citation":"TC1-11196",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -520,7 +520,7 @@
         "other":"{\"decision-maker_name\": \"Ron Liberman\"}"
     },
     {
-        "citation1":"TC1-11703",
+        "citation":"TC1-11703",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -533,7 +533,7 @@
         "other":"{\"decision-maker_name\": \"Nicole Ladouceur\"}"
     },
     {
-        "citation1":"TC1-12204",
+        "citation":"TC1-12204",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -546,7 +546,7 @@
         "other":"{\"decision-maker_name\": \"Karen McGovern\"}"
     },
     {
-        "citation1":"TC1-12335",
+        "citation":"TC1-12335",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -559,7 +559,7 @@
         "other":"{\"decision-maker_name\": \"Daphn\u00e9e Ouellet\"}"
     },
     {
-        "citation1":"TC1-16570",
+        "citation":"TC1-16570",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -572,7 +572,7 @@
         "other":"{\"decision-maker_name\": \"Derek Vermette\"}"
     },
     {
-        "citation1":"TC1-17552",
+        "citation":"TC1-17552",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -585,7 +585,7 @@
         "other":"{\"decision-maker_name\": \"Me Philippe Rabot\"}"
     },
     {
-        "citation1":"TC1-18417",
+        "citation":"TC1-18417",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -598,7 +598,7 @@
         "other":"{\"decision-maker_name\": \"Maureen Carter-Whitney\"}"
     },
     {
-        "citation1":"TC1-21863",
+        "citation":"TC1-21863",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -611,7 +611,7 @@
         "other":"{\"decision-maker_name\": \"L.S. Hart\"}"
     },
     {
-        "citation1":"TC2-07061",
+        "citation":"TC2-07061",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -624,7 +624,7 @@
         "other":"{\"decision-maker_name\": \"Miriam McLeod\"}"
     },
     {
-        "citation1":"VC1-01860",
+        "citation":"VC1-01860",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -637,7 +637,7 @@
         "other":"{\"decision-maker_name\": \"Charles A. McDermott\"}"
     },
     {
-        "citation1":"VC1-05153",
+        "citation":"VC1-05153",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -650,7 +650,7 @@
         "other":"{\"decision-maker_name\": \"Dilani Mohan\"}"
     },
     {
-        "citation1":"VC1-05263",
+        "citation":"VC1-05263",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -663,7 +663,7 @@
         "other":"{\"decision-maker_name\": \"Pascale Aubin\"}"
     },
     {
-        "citation1":"VC1-05297",
+        "citation":"VC1-05297",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -676,7 +676,7 @@
         "other":"{\"decision-maker_name\": \"Nathan Ferguson\"}"
     },
     {
-        "citation1":"VC1-06739",
+        "citation":"VC1-06739",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -689,7 +689,7 @@
         "other":"{\"decision-maker_name\": \"Daphn\u00e9e Ouellet\"}"
     },
     {
-        "citation1":"VC1-07944",
+        "citation":"VC1-07944",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -702,7 +702,7 @@
         "other":"{\"decision-maker_name\": \"Rosemary Basa\"}"
     },
     {
-        "citation1":"VC1-08234",
+        "citation":"VC1-08234",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -715,7 +715,7 @@
         "other":"{\"decision-maker_name\": \"Normand Leduc\"}"
     },
     {
-        "citation1":"VC1-08503",
+        "citation":"VC1-08503",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -728,7 +728,7 @@
         "other":"{\"decision-maker_name\": \"Alison Kennedy\"}"
     },
     {
-        "citation1":"VC2-00460",
+        "citation":"VC2-00460",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -741,7 +741,7 @@
         "other":"{\"decision-maker_name\": \"Me Alain Bissonnette\"}"
     },
     {
-        "citation1":"VC2-01735",
+        "citation":"VC2-01735",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -754,7 +754,7 @@
         "other":"{\"decision-maker_name\": \"Mokhtar Lamani\"}"
     },
     {
-        "citation1":"VC2-06157",
+        "citation":"VC2-06157",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -767,7 +767,7 @@
         "other":"{\"decision-maker_name\": \"Jennifer Pollock\"}"
     },
     {
-        "citation1":"MC0-05266",
+        "citation":"MC0-05266",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -780,7 +780,7 @@
         "other":"{\"decision-maker_name\": \"Roxane Vachon\"}"
     },
     {
-        "citation1":"TB8-08227",
+        "citation":"TB8-08227",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -793,7 +793,7 @@
         "other":"{\"decision-maker_name\": \"James Sloan\"}"
     },
     {
-        "citation1":"VC1-04668",
+        "citation":"VC1-04668",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -806,7 +806,7 @@
         "other":"{\"decision-maker_name\": \"Me Kristine Plouffe-Malette\"}"
     },
     {
-        "citation1":"MC1-07673",
+        "citation":"MC1-07673",
         "citation2":"",
         "dataset":"RAD",
         "name":"",
@@ -819,7 +819,7 @@
         "other":"{\"decision-maker_name\": \"XXXXXXXXX\"}"
     },
     {
-        "citation1":"MC1-06135",
+        "citation":"MC1-06135",
         "citation2":"",
         "dataset":"RAD",
         "name":"",

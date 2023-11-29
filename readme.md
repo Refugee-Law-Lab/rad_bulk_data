@@ -1,4 +1,4 @@
-## Repo for sharing, loading and analyzing Supreme Court of Canada cases programmatically
+## Repo for sharing, loading and analyzing Immigration and Refugee Board Refugee Appeal Division cases programmatically
 
 Author: Sean Rehaag
 

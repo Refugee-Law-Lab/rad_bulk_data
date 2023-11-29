@@ -8,7 +8,7 @@ Dataset & Code to be cited as:
 
     Sean Rehaag, "Refugee Appeal Division Bulk Decisions Dataset" (2023), online: Refugee Law Laboratory <https://refugeelab.ca/bulk-data/rad>.
 
-To load data, see [load_and_analyze_rad_cases.ipynb](https://github.com/Refugee-Law-Lab/scc_bulk_data/blob/master/load_and_analyze_rad_cases.ipynb)
+To load data, see [load_and_analyze_rad_cases.ipynb](https://github.com/Refugee-Law-Lab/rad_bulk_data/blob/master/load_and_analyze_rad_cases.ipynb)
 
 ### Notes:
 
